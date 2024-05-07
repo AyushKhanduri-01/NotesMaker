@@ -1,10 +1,13 @@
 # Note Taking System
 
-This is a simple web application built using Java EE technologies such as JSP, Servlets, Hibernate, MySql. It allows users to create, view, and manage their notes by providing a user-friendly interface.
+This is a simple web application built using Java EE technologies such as JSP, Servlets, Hibernate, MySQL. It allows users to create, view, update, and delete their notes by providing a user-friendly interface.
 
 ## Features
 - **Create Note:** Users can create a new note by providing a title and content.
 - **View Notes:** Users can view all their notes in a list format.
+- **Update Note:** Users can edit the title and content of their existing notes.
+- **Delete Note:** Users can delete unwanted notes from their collection.
+
 
 ## Technologies Used
 
